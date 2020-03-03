@@ -20,7 +20,7 @@ def print_first_directors_movie_titles
     row_index += 1
   end
 end
-
+#the first time I wrote: 
 # def print_first_directors_movie_titles
 #   spielberg_movies = directors_database[0][:movies]
 #   index = 0
